@@ -68,4 +68,62 @@
 - **운영·인프라 관점:** 메트릭·로그·알람을 **대시보드**로 엮어 장애 전후 맥락을 한 화면에서 추적 (예: **Grafana · Prometheus** 스택, SLI/SLO 중심 패널 구성)
 - **제품·비즈니스 지표:** 전환·리텐션·퍼널·코호트 등 **핵심 KPI**를 정의하고, 집계 파이프라인과 함께 **리포트/셀프서비스 탐색**까지 설계
 - **ML / LLM 품질:** 학습·평가 단계의 **오차 분포, 캘리브레이션, 랭킹·Recall@k, 레이턴시** 등을 시계열·히스토그램으로 모니터링하고 개선 루프에 연결
-- **RAG 파
+- **RAG 파이프라인:** 청크 길이·검색 점수·히트율·응답 길이·비용(토큰)** 을 한 번에 보는 운영 대시보드 구성
+- **Python 시각화 스택:** **Matplotlib · Seaborn · Plotly** 등으로 탐색적 분석(EDA)부터 인터랙티브 차트, 스토리텔링용 정적 리포트까지
+- **웹·앱 계층:** TypeScript 생태계와 결합한 **차트·맵·실시간 스트림** UI, 운영자용 내부 콘솔 화면 설계
+- **데이터 스토리:** 지표 정의 → 시각 인코딩(색·스케일·축) → 오해 없는 레이블링까지 **의사결정에 쓰이는 그림**을 목표로 정리
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=110&section=header&text=Tech%20stack&fontSize=40&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="section" width="100%" />
+
+<br />
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nestjs,docker,kubernetes,supabase,vercel,postgres,linux,git,github,openai,grafana,prometheus&perline=8" alt="skill icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riosee2415&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Heatmap" alt="activity" width="98%" />
+</p>
+
+<br />
+
+## GitHub stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=riosee2415&show_icons=true&theme=radical&hide_border=false&rank_icon=github&include_all_commits=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riosee2415&layout=donut-vertical&theme=radical&hide_border=false&langs_count=10" alt="langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riosee2415&theme=radical&hide_border=false&fire=FF3860" alt="streak" />
+</p>
+
+<br />
+
+## Contact
+
+- GitHub: [@riosee2415](https://github.com/riosee2415)
+
+<br />
+
+<div align="center">
+  <sub>Built with curiosity · Shipping with discipline</sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:ff00c8&height=150&section=footer&animation=twinkling&fontColor=ffffff" alt="footer" width="100%" />
+</div>
