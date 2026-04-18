@@ -1,5 +1,3 @@
-<!-- Replace `shYOON` with your GitHub username in this file (Find & Replace) -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,35:7c3aed,70:06b6d4,100:0ea5e9&height=280&section=header&text=AI%20Engineer&fontSize=52&fontAlignY=36&desc=RAG%20%C2%B7%20LLM%20%C2%B7%20ML%2FDL%20%C2%B7%20Infra%20%C2%B7%20K8s&descSize=20&descAlignY=62&descAlign=62&animation=floating&fontColor=ffffff&descColor=f5f3ff&stroke=ffffff&strokeWidth=2" alt="header" width="100%" />
 
 <p align="center">
@@ -16,7 +14,7 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
   <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
@@ -31,7 +29,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&customColorList=24,26,27,28,29,30&stroke=000000&strokeWidth=1&text=Tech%20%26%20Ship&fontSize=42&fontColor=ffffff&animation=twinkling" alt="divider" width="92%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=110&section=header&text=Focus&fontSize=40&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="section" width="100%" />
 
 <br />
 
@@ -69,19 +67,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI badge" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next badge" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest badge" />
-</p>
-
-> 위 **skillicons** 줄에 React / Next.js / NestJS / OpenAI 로고가 포함되어 있고, 아래 줄은 **배지 형태**로 한 번 더 강조한 구성입니다.
-
-<br />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shYOON&theme=dracula&column=7&margin-w=12&margin-h=12&no-bg=false&no-frame=false" alt="trophies" width="100%" />
+  <img src="https://img.shields.io/badge/Claude-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 </p>
 
 <br />
