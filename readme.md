@@ -50,7 +50,7 @@
 
 | 소속 | 역할 |
 | :--- | :--- |
-| WITIVE Corp. | **AI 수석 엔지니어** — AI / RAG / LLM 제품·연구 개발 리드 |
+| WITIVE Corp. | **AI 연구 엔지니어** — AI / RAG / LLM 제품·연구 개발 리드 |
 | (전) Narainet Corp. | **AI 수석 엔지니어** — AI / RAG / LLM 제품·연구 개발 리드 |
 | (전) 4LEAF Corp. | **CTO** — 기술 전략, 아키텍처, 엔지니어링 조직 리드 |
 
