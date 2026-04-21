@@ -38,6 +38,7 @@
 ## Focus
 
 - **AI:** RAG, LLM, ML / DL — 검색·생성 파이프라인과 품질·비용·운영까지 고려한 설계
+- **Vector | Embedding : Chroma, Pinecone, Fiss, Es ... Operating
 - **Platform:** Docker · Kubernetes 오케스트레이션, 배포·관측 가능한 파이프라인
 - **App delivery:** Supabase, Vercel 등을 활용한 자동화 배포와 풀스택 연동
 - **Languages:** Python, TypeScript 중심
