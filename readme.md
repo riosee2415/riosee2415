@@ -1,59 +1,89 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,35:7c3aed,70:06b6d4,100:0ea5e9&height=280&section=header&text=AI%20Engineer&fontSize=52&fontAlignY=36&desc=RAG%20%C2%B7%20LLM%20%C2%B7%20ML%2FDL%20%C2%B7%20Infra%20%C2%B7%20K8s&descSize=20&descAlignY=62&descAlign=62&animation=floating&fontColor=ffffff&descColor=f5f3ff&stroke=ffffff&strokeWidth=2" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:7c3aed,100:06b6d4&height=290&section=header&text=AI%20%2F%20AX%20Engineer&fontSize=50&fontAlignY=35&desc=AI%20Builder%20%C2%B7%20CAIO%20%C2%B7%20CTO&descSize=21&descAlignY=60&animation=fadeIn&fontColor=ffffff&descColor=e0f2fe&stroke=ffffff&strokeWidth=1" alt="AI / AX Engineer" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=920&height=55&lines=Build+%E2%80%94+Ship+%E2%80%94+Observe+%E2%80%94+Iterate;RAG+%2B+LLM+%2B+Vector+Search+%2B+Evals;Python+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Kubernetes;Data+Viz+%C2%B7+Metrics+%C2%B7+Dashboards;Supabase+%C2%B7+Vercel+%C2%B7+Automation;Cursor+%C2%B7+Claude+%C2%B7+Human+in+the+loop" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=Build+AI.+Transform+Work.+Ship+Value.;Claude+%C2%B7+Hermes+%C2%B7+Codex;Agentic+AI+%C2%B7+LLM+%C2%B7+RAG+%C2%B7+Automation;From+Prototype+to+Production" alt="AI Builder" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20ENGINEER-020617?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/AI%20BUILDER-312E81?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Builder" />
+  <img src="https://img.shields.io/badge/AX%20STRATEGY-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AX Strategy" />
 </p>
 
 <br />
 
-**RAG · LLM · ML/DL** 을 설계·구현하고, **Kubernetes · Docker** 기반 파이프라인과 인프라까지 연결하는 엔지니어입니다. 운영 가능한 시스템을 기준으로 **관측·지표·시각화**까지 한 흐름으로 다룹니다.
+## About me
+
+**AI를 연구하는 데서 멈추지 않고, 실제로 작동하는 제품과 업무 시스템으로 만드는 AI/AX 엔지니어이자 AI Builder입니다.**
+
+LLM · RAG · Agentic AI를 중심으로 아이디어 검증, 제품 구현, 자동화, 배포와 운영까지 연결합니다. 현재 **Claude · Hermes · Codex**를 주력 도구로 사용하며, 사람과 AI가 함께 더 빠르고 정확하게 일하는 방식을 설계합니다.
 
 <br />
 
+## Now
+
+| Organization | Role | Focus |
+| :--- | :--- | :--- |
+| **Trus Group** | **CAIO** | AI 전략 및 실행 |
+| **LABlog** | **CTO** | 기술 전략 및 제품 엔지니어링 |
+| **Euuropean** | **CAIO** | AI 전환 및 AI 기반 비즈니스 구축 |
+
+> Previously at **WITIVE Corp.** as an AI Research Engineer.
+
+<br />
+
+## AI Builder toolkit
+
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>
-  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
-  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Hermes-111827?style=for-the-badge&logoColor=white" alt="Hermes" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
 <p align="center">
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
-  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
+  <sub>Plan with context · Build with agents · Verify with evidence · Ship continuously</sub>
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=110&section=header&text=Focus&fontSize=40&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="section" width="100%" />
+## What I build
 
-<br />
-
-## Focus
-
-- **AI:** RAG, LLM, ML / DL — 검색·생성 파이프라인과 품질·비용·운영까지 고려한 설계
-- **Vector | Embedding** : Chroma, Pinecone, Fiss, Es ... Operating
-- **Platform:** Docker · Kubernetes 오케스트레이션, 배포·관측 가능한 파이프라인
-- **App delivery:** Supabase, Vercel 등을 활용한 자동화 배포와 풀스택 연동
-- **Languages:** Python, TypeScript 중심
-- **Workflow:** Cursor, Claude 기반 개발에 집중
+- **Agentic AI** — 멀티스텝 추론, 도구 사용, 에이전트 워크플로우 설계
+- **LLM & RAG** — 검색·생성 파이프라인, 벡터 검색, 평가와 품질 개선
+- **AI Product** — 프로토타입부터 실제 사용 가능한 서비스까지 빠르게 구현
+- **AX** — 반복 업무 자동화, 조직 워크플로우 재설계, AI 도입 전략
+- **AI Platform** — Docker · Kubernetes 기반 배포, 관측, 비용과 안정성 관리
+- **Data & Evals** — 지표·대시보드·평가 체계를 통한 지속적인 개선
 
 <br />
 
 ## Experience
 
-| 소속 | 역할 |
+| Organization | Role |
 | :--- | :--- |
-| WITIVE Corp. | **AI 연구 엔지니어** — AI / RAG / LLM 제품·연구 개발 리드 |
-| (전) Narainet Corp. | **AI 수석 엔지니어** — AI / RAG / LLM 제품·연구 개발 리드 |
-| (전) 4LEAF Corp. | **CTO** — 기술 전략, 아키텍처, 엔지니어링 조직 리드 |
+| **Trus Group** | **CAIO** |
+| **LABlog** | **CTO** |
+| **Euuropean** | **CAIO** |
+| (전) **WITIVE Corp.** | **AI 연구 엔지니어** — AI · RAG · LLM 제품 및 연구 개발 |
+| (전) **Narainet Corp.** | **AI 수석 엔지니어** — AI · RAG · LLM 제품 및 연구 개발 리드 |
+| (전) **4LEAF Corp.** | **CTO** — 기술 전략, 아키텍처, 엔지니어링 조직 리드 |
 
+<br />
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nestjs,docker,kubernetes,postgres,supabase,vercel,linux,git,github,grafana,prometheus&perline=8" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-0F172A?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-312E81?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Vector%20Search-0891B2?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Evals-0E7490?style=flat-square" alt="Evals" />
+  <img src="https://img.shields.io/badge/Automation-0369A1?style=flat-square" alt="Automation" />
+</p>
 
 <br />
 
@@ -66,67 +96,27 @@
 
 <br />
 
-## Data visualization
-
-- **운영·인프라 관점:** 메트릭·로그·알람을 **대시보드**로 엮어 장애 전후 맥락을 한 화면에서 추적 (예: **Grafana · Prometheus** 스택, SLI/SLO 중심 패널 구성)
-- **제품·비즈니스 지표:** 전환·리텐션·퍼널·코호트 등 **핵심 KPI**를 정의하고, 집계 파이프라인과 함께 **리포트/셀프서비스 탐색**까지 설계
-- **ML / LLM 품질:** 학습·평가 단계의 **오차 분포, 캘리브레이션, 랭킹·Recall@k, 레이턴시** 등을 시계열·히스토그램으로 모니터링하고 개선 루프에 연결
-- **RAG 파이프라인:** 청크 길이·검색 점수·히트율·응답 길이·비용(토큰)** 을 한 번에 보는 운영 대시보드 구성
-- **Python 시각화 스택:** **Matplotlib · Seaborn · Plotly** 등으로 탐색적 분석(EDA)부터 인터랙티브 차트, 스토리텔링용 정적 리포트까지
-- **웹·앱 계층:** TypeScript 생태계와 결합한 **차트·맵·실시간 스트림** UI, 운영자용 내부 콘솔 화면 설계
-- **데이터 스토리:** 지표 정의 → 시각 인코딩(색·스케일·축) → 오해 없는 레이블링까지 **의사결정에 쓰이는 그림**을 목표로 정리
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=110&section=header&text=Tech%20stack&fontSize=40&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="section" width="100%" />
-
-<br />
-
-## Tech stack
+## GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nestjs,docker,kubernetes,supabase,vercel,postgres,linux,git,github,openai,grafana,prometheus&perline=8" alt="skill icons" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riosee2415&theme=tokyo-night&hide_border=true&area=true&custom_title=Building%20in%20Public" alt="GitHub activity graph" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riosee2415&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Heatmap" alt="activity" width="98%" />
-</p>
-
-<br />
-
-## GitHub stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=riosee2415&show_icons=true&theme=radical&hide_border=false&rank_icon=github&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riosee2415&layout=donut-vertical&theme=radical&hide_border=false&langs_count=10" alt="langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riosee2415&theme=radical&hide_border=false&fire=FF3860" alt="streak" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=riosee2415&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riosee2415&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <br />
 
 ## Contact
 
-- GitHub: [@riosee2415](https://github.com/riosee2415)
-
-<br />
+<p align="center">
+  <a href="https://github.com/riosee2415"><img src="https://img.shields.io/badge/GitHub-@riosee2415-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <div align="center">
-  <sub>Built with curiosity · Shipping with discipline</sub>
+  <sub>Build intelligence into products. Turn AI into impact.</sub>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:ff00c8&height=150&section=footer&animation=twinkling&fontColor=ffffff" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:7c3aed,100:020617&height=150&section=footer&animation=twinkling" alt="footer" width="100%" />
 </div>
